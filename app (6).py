@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.set_page_config(page_title="Chunar Quantum AI", page_icon="⚡", layout="wide")
-st.title("⚡ Chunar Quantum AI")
+st.set_page_config(page_title="Chinar Quantum AI", page_icon="⚡", layout="wide")
+st.title("⚡ Chinar Quantum AI")
 st.markdown("### Data Source: Future AI Innovators (19 Participants)")
 
 @st.cache_data
