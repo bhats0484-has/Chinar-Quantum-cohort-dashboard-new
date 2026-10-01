@@ -8,7 +8,7 @@ st.markdown("### Data Source: Future AI Innovators (19 Participants)")
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("/content/my_chunar_data.csv")
+    return pd.read_csv("my_chunar_data.csv")
 
 df = load_data()
 
